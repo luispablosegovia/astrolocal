@@ -47,7 +47,7 @@ ollama pull qwen2.5:14b      # Recomendado: mejor calidad (~10 GB RAM)
 ollama pull llama3.2:8b       # Alternativa: más rápido (~6 GB RAM)
 
 # 3. Clonar e instalar AstroLocal
-git clone https://github.com/TU-USUARIO/astrolocal.git
+git clone https://github.com/luispablosegovia/astrolocal.git
 cd astrolocal
 python -m venv .venv && source .venv/bin/activate
 pip install -e .
