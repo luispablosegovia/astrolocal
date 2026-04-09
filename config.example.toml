@@ -1,0 +1,27 @@
+# AstroLocal — Configuración
+# Copiá este archivo a ~/.astrolocal/config.toml y editálo.
+
+[llm]
+provider = "ollama"                    # "ollama", "mlx", o "openai_compat"
+model = "qwen2.5:14b"                 # Modelo a usar
+base_url = "http://localhost:11434"    # Solo localhost o red privada
+temperature = 0.7                      # 0.0 = determinista, 2.0 = muy creativo
+max_tokens = 4096                      # Tokens máximos de respuesta
+context_window = 8192                  # Ventana de contexto del modelo
+timeout_seconds = 300                  # Timeout por request (5 min)
+fallback_model = "llama3.2:8b"        # Modelo alternativo si el principal falla
+
+[app]
+language = "es-AR"
+database_path = "~/.astrolocal/astrolocal.db"
+log_level = "INFO"                     # DEBUG, INFO, WARNING, ERROR, CRITICAL
+# log_file = "~/.astrolocal/astrolocal.log"  # Descomentar para loguear a archivo
+cache_charts = true
+max_profiles = 100
+max_readings_per_profile = 1000
+
+[output]
+format = "rich"                        # "rich", "markdown", "html", "json"
+save_readings = true                   # Guardar lecturas automáticamente
+show_raw_data = false                  # Mostrar data cruda de Kerykeion
+redact_birth_data_in_logs = true       # Redactar PII en los logs
