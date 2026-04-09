@@ -1,0 +1,110 @@
+# Significado de planetas en signos — Base de conocimiento astrológica
+# Este archivo enriquece los prompts con contexto específico.
+
+[sun.Aries]
+keywords = ["iniciativa", "coraje", "impulsividad", "liderazgo", "pionero"]
+element = "fuego"
+modality = "cardinal"
+ruler = "Marte"
+core_drive = "Necesidad de actuar, iniciar, ser primero"
+shadow = "Impaciencia, agresividad, egocentrismo"
+growth = "Aprender a sostener lo que inicia, considerar al otro"
+
+[sun.Taurus]
+keywords = ["estabilidad", "sensorialidad", "persistencia", "valores", "placer"]
+element = "tierra"
+modality = "fijo"
+ruler = "Venus"
+core_drive = "Necesidad de seguridad, confort, conexión sensorial"
+shadow = "Terquedad, posesividad, resistencia al cambio"
+growth = "Aprender a soltar, fluir con el cambio"
+
+[sun.Gemini]
+keywords = ["comunicación", "curiosidad", "versatilidad", "dualidad", "ingenio"]
+element = "aire"
+modality = "mutable"
+ruler = "Mercurio"
+core_drive = "Necesidad de aprender, conectar, comunicar"
+shadow = "Superficialidad, dispersión, inconsistencia"
+growth = "Profundizar en lugar de abarcar, integrar las partes"
+
+[sun.Cancer]
+keywords = ["nutrición", "emoción", "protección", "familia", "memoria"]
+element = "agua"
+modality = "cardinal"
+ruler = "Luna"
+core_drive = "Necesidad de pertenecer, nutrir, proteger"
+shadow = "Dependencia emocional, manipulación pasiva, evasión"
+growth = "Construir seguridad interna, soltar el control emocional"
+
+[sun.Leo]
+keywords = ["creatividad", "expresión", "generosidad", "orgullo", "brillo"]
+element = "fuego"
+modality = "fijo"
+ruler = "Sol"
+core_drive = "Necesidad de ser visto, reconocido, celebrado"
+shadow = "Egocentrismo, necesidad de aprobación, drama"
+growth = "Brillar desde la autenticidad, no desde la validación"
+
+[sun.Virgo]
+keywords = ["análisis", "servicio", "perfeccionismo", "salud", "precisión"]
+element = "tierra"
+modality = "mutable"
+ruler = "Mercurio"
+core_drive = "Necesidad de mejorar, ordenar, servir"
+shadow = "Autocrítica excesiva, ansiedad, control"
+growth = "Aceptar la imperfección, confiar en el proceso"
+
+[sun.Libra]
+keywords = ["armonía", "relaciones", "justicia", "belleza", "diplomacia"]
+element = "aire"
+modality = "cardinal"
+ruler = "Venus"
+core_drive = "Necesidad de equilibrio, conexión, belleza"
+shadow = "Indecisión, dependencia del otro, evitar el conflicto"
+growth = "Encontrar el centro propio, sostener posiciones"
+
+[sun.Scorpio]
+keywords = ["transformación", "intensidad", "poder", "profundidad", "regeneración"]
+element = "agua"
+modality = "fijo"
+ruler = "Plutón"
+core_drive = "Necesidad de llegar al fondo, transformar, trascender"
+shadow = "Control, obsesión, resentimiento, autodestrucción"
+growth = "Soltar el control, confiar, renacer sin destruir"
+
+[sun.Sagittarius]
+keywords = ["expansión", "filosofía", "aventura", "verdad", "libertad"]
+element = "fuego"
+modality = "mutable"
+ruler = "Júpiter"
+core_drive = "Necesidad de sentido, exploración, libertad"
+shadow = "Fanatismo, exceso, irresponsabilidad, dogmatismo"
+growth = "Encontrar la verdad sin imponerla, comprometerse"
+
+[sun.Capricorn]
+keywords = ["estructura", "ambición", "responsabilidad", "disciplina", "logro"]
+element = "tierra"
+modality = "cardinal"
+ruler = "Saturno"
+core_drive = "Necesidad de construir algo duradero, lograr, madurar"
+shadow = "Rigidez, frialdad emocional, workaholism, pesimismo"
+growth = "Permitirse la vulnerabilidad, disfrutar el camino"
+
+[sun.Aquarius]
+keywords = ["innovación", "independencia", "humanitarismo", "originalidad", "futuro"]
+element = "aire"
+modality = "fijo"
+ruler = "Urano"
+core_drive = "Necesidad de ser único, cambiar el mundo, pertenecer sin perder individualidad"
+shadow = "Desapego emocional, rebeldía vacía, frialdad"
+growth = "Conectar emocionalmente sin perder la visión"
+
+[sun.Pisces]
+keywords = ["compasión", "intuición", "espiritualidad", "disolución", "arte"]
+element = "agua"
+modality = "mutable"
+ruler = "Neptuno"
+core_drive = "Necesidad de trascender, fusionarse, crear"
+shadow = "Evasión, victimismo, confusión de límites, adicciones"
+growth = "Enraizarse sin perder la conexión espiritual"

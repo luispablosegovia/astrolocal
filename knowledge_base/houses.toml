@@ -1,0 +1,61 @@
+# Significado de las 12 casas astrológicas
+
+[house_1]
+name = "Casa 1 — Ascendente"
+domain = "Identidad, apariencia, primera impresión, cuerpo físico"
+question = "¿Quién soy? ¿Cómo me presento al mundo?"
+
+[house_2]
+name = "Casa 2 — Recursos"
+domain = "Dinero, posesiones, valores, autoestima, talentos"
+question = "¿Qué tengo? ¿Qué valoro?"
+
+[house_3]
+name = "Casa 3 — Comunicación"
+domain = "Comunicación, hermanos, entorno cercano, aprendizaje, mente"
+question = "¿Cómo pienso y me comunico?"
+
+[house_4]
+name = "Casa 4 — Raíces"
+domain = "Hogar, familia, raíces, mundo emocional interno, madre"
+question = "¿De dónde vengo? ¿Qué es mi hogar?"
+
+[house_5]
+name = "Casa 5 — Creatividad"
+domain = "Creatividad, romance, hijos, placer, juego, expresión"
+question = "¿Qué me da alegría? ¿Cómo creo?"
+
+[house_6]
+name = "Casa 6 — Servicio"
+domain = "Trabajo diario, salud, rutinas, servicio, perfeccionamiento"
+question = "¿Cómo cuido mi cuerpo y sirvo a otros?"
+
+[house_7]
+name = "Casa 7 — Relaciones"
+domain = "Pareja, socios, contratos, el otro, lo que proyecto"
+question = "¿Qué busco en el otro? ¿Qué proyecto?"
+
+[house_8]
+name = "Casa 8 — Transformación"
+domain = "Muerte/renacimiento, sexualidad, recursos compartidos, crisis, poder"
+question = "¿Qué necesito soltar para transformarme?"
+
+[house_9]
+name = "Casa 9 — Expansión"
+domain = "Filosofía, viajes largos, educación superior, creencias, sentido"
+question = "¿En qué creo? ¿Hacia dónde expando mi horizonte?"
+
+[house_10]
+name = "Casa 10 — Vocación"
+domain = "Carrera, vocación, reputación, logros, padre, rol público"
+question = "¿Qué quiero construir en el mundo?"
+
+[house_11]
+name = "Casa 11 — Comunidad"
+domain = "Amigos, grupos, ideales, proyectos colectivos, futuro"
+question = "¿A qué comunidad pertenezco? ¿Qué sueño para el futuro?"
+
+[house_12]
+name = "Casa 12 — Inconsciente"
+domain = "Inconsciente, espiritualidad, aislamiento, karma, lo oculto"
+question = "¿Qué hay en mi sombra? ¿Qué necesito integrar?"

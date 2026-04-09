@@ -1,0 +1,36 @@
+# Significado de los aspectos astrológicos
+
+[conjunction]
+name = "Conjunción"
+symbol = "☌"
+angle = 0
+nature = "fusión"
+description = "Las energías se fusionan e intensifican mutuamente. Puede ser armónico o tenso según los planetas involucrados."
+
+[sextile]
+name = "Sextil"
+symbol = "⚹"
+angle = 60
+nature = "oportunidad"
+description = "Flujo suave de energía. Talentos naturales que se activan con un mínimo esfuerzo consciente."
+
+[square]
+name = "Cuadratura"
+symbol = "□"
+angle = 90
+nature = "tensión creativa"
+description = "Fricción y desafío que impulsa al crecimiento. La energía necesita resolución activa."
+
+[trine]
+name = "Trígono"
+symbol = "△"
+angle = 120
+nature = "armonía"
+description = "Flujo natural y fácil de energía. Dones innatos, pero puede generar complacencia si no se cultiva."
+
+[opposition]
+name = "Oposición"
+symbol = "☍"
+angle = 180
+nature = "polaridad"
+description = "Tensión entre opuestos que busca integración. Proyección en el otro. El desafío es encontrar el equilibrio."

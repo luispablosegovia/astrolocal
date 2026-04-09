@@ -1,0 +1,1 @@
+"""AstroLocal test suite."""
